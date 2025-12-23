@@ -23,32 +23,6 @@ javac 17.0.x
 
 If not installed, download from: https://adoptium.net/
 
-## 📁 Project Structure Setup
-
-Create the following directory structure:
-
-```
-kv-store/
-├── src/
-│   └── com/
-│       └── kvstore/
-│           ├── cache/
-│           │   ├── CustomHashMap.java
-│           │   └── LRUCache.java
-│           ├── server/
-│           │   ├── KeyValueServer.java
-│           │   └── CommandHandler.java
-│           ├── client/
-│           │   └── KeyValueClient.java
-│           ├── test/
-│           │   └── LRUCacheTest.java
-│           └── benchmark/
-│               └── Benchmark.java
-├── bin/                    (auto-generated)
-├── build.sh
-└── README.md
-```
-
 ## 🚀 Quick Start (Linux/Mac)
 
 ### Step 1: Make build script executable
