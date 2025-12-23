@@ -1,0 +1,10 @@
+bin/
+logs/
+.git/
+.github/
+.gitignore
+*.md
+.DS_Store
+.idea/
+.vscode/
+target/
