@@ -324,43 +324,6 @@ Use these proven bullet points for your resume:
 
 5. **"Developed comprehensive test suite and benchmarking framework, validating correctness and performance under various load conditions"**
 
-## 🎯 Why This Project Stands Out
-
-### For High-Frequency Trading Firms:
-- ✅ **Low latency**: Sub-millisecond response times
-- ✅ **High throughput**: 80K+ ops/sec
-- ✅ **Thread-safe**: Production-ready concurrency handling
-- ✅ **Custom built**: Shows deep systems knowledge
-
-### For Systems Programming Roles:
-- ✅ **No frameworks**: Pure Java implementation
-- ✅ **Data structure expertise**: Built from scratch
-- ✅ **Performance optimization**: Benchmarked and tuned
-- ✅ **Real-world applicable**: Similar to Redis, Memcached
-
-### Interview Preparation:
-- ✅ Demonstrates **LRU Cache** - top interview question
-- ✅ Shows **HashMap internals** - commonly asked
-- ✅ Covers **multithreading** - crucial for systems roles
-- ✅ Includes **system design** - senior-level skill
-
-## 🔍 Common Interview Questions You Can Answer
-
-1. **"How does a HashMap work internally?"**
-   - Walk through your CustomHashMap implementation
-
-2. **"Implement an LRU Cache"**
-   - Show your LRUCache.java implementation
-
-3. **"How do you handle concurrent access to shared data?"**
-   - Explain your locking strategy
-
-4. **"Design a key-value store"**
-   - Present this entire project architecture
-
-5. **"How do you optimize for performance?"**
-   - Discuss your benchmarking and optimization process
-
 ## 📚 Learning Resources
 
 This project demonstrates concepts from:
@@ -379,14 +342,3 @@ This is a portfolio project, but suggestions are welcome! Key areas for enhancem
 - [ ] Support for data types (lists, sets, sorted sets)
 - [ ] TTL (time-to-live) expiration
 
-## 📄 License
-
-MIT License - feel free to use for your portfolio!
-
-## 🙏 Acknowledgments
-
-Inspired by Redis, Memcached, and classic systems programming projects.
-
----
-
-**Built with ❤️ and pure Java** | No frameworks, no shortcuts, just solid engineering.
