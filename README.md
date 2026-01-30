@@ -1,4 +1,4 @@
-# Custom In-Memory Key-Value Store (Mini-Redis)
+# Custom In-Memory Key-Value Store
 
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
